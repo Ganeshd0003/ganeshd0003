@@ -92,16 +92,6 @@ Currently, I'm focused on building production-quality projects that reflect real
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshd0003&theme=github-light"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
